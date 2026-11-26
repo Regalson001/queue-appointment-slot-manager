@@ -1,6 +1,3 @@
-
-# QueueFlow — Queue & Appointment Slot Manager
-
 ### Smarter scheduling. Shorter queues. Better service experiences.
 
 QueueFlow is a full-stack appointment scheduling and queue management
